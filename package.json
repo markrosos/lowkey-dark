@@ -1,0 +1,21 @@
+{
+    "name": "lowkey-black",
+    "displayName": "lowkey black",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.68.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "lowkey black",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lowkey black-color-theme.json"
+            }
+        ]
+    }
+}
